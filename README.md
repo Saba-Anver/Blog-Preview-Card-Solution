@@ -21,9 +21,11 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="1601" height="809" alt="image" src="https://github.com/user-attachments/assets/be4ab9b6-cf0f-4684-b9e3-1887ce6d5266" />
+
 ### Link
 
-- Live Site URL: [https://qr-code-component-fm-challengee.netlify.app/](https://qr-code-component-fm-challengee.netlify.app/)
+- Live Site URL: [https://blog-preview-card-fm-challengee.netlify.app/](https://blog-preview-card-fm-challengee.netlify.app/)
 
 ## Built with
 
