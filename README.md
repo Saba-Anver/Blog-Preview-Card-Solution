@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img width="682" height="797" alt="image" src="https://github.com/user-attachments/assets/c4918c65-ad09-4187-a8e2-c984322c04d2" />
+<img width="1414" height="815" alt="image" src="https://github.com/user-attachments/assets/87e9f6d4-569d-4eca-a592-02e2bb3bd834" />
 
 ### Link
 
